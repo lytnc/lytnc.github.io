@@ -1,9 +1,8 @@
 ---
-layout: page
-title: About Me
-date: 2024-10-05 17:26:19 +0100
-categories: [about_me]
-tags: []     # TAG names should always be lowercase
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
 ---
 
-Yet another researcher
+## Yet another reasercher
+and a blog
