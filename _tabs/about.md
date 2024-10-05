@@ -6,3 +6,10 @@ order: 4
 
 ## Yet another reasercher
 and a blog
+
+``` bash
+sudo pacman -Syu
+```
+
+
+
